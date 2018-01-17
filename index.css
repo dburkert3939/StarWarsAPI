@@ -1,3 +1,10 @@
 body {
     background-color: lightblue;
 }
+btn {
+    border-radius: 0px;
+}
+
+#infoButton {
+    margin-bottom: 5px;
+}
